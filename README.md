@@ -1,3 +1,5 @@
+[日本語](README.md) | [Français](README_fr.md)
+
 # Camp Buddy Scoutmaster Season 非公式日本語パッチ
 
 ## 概要
@@ -18,6 +20,7 @@ DLC『Camp Buddy: Scoutmaster Season - Side Stories』にも対応していま�
 * パッチにはゲームのデータは含まれていません。
 * ご利用には正規に入手されたゲーム本体が必要です。
 * Side Stories の翻訳を利用するには、DLC『Camp Buddy: Scoutmaster Season - Side Stories』が必要です。
+* 本パッチの翻訳は AI による翻訳支援を利用して作成しています。
 
 ## 設定方法
 
