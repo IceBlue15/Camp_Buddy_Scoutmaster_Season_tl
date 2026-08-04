@@ -1,4 +1,4 @@
-[日本語](README.md) | [Français](README_fr.md)
+[日本語](README.md) | [Français](README_fr.md) | [Русский](README_ru.md)
 
 # Camp Buddy Scoutmaster Season — Patch de traduction française (non officiel)
 
